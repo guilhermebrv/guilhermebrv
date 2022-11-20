@@ -17,7 +17,7 @@ Technologies I use on a regular basis:
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="MacOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">  
-  
-    ![Snake animation](https://github.com/guilhermebrv/guilhermebrv/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
+  
+![Snake animation](https://github.com/guilhermebrv/guilhermebrv/blob/output/github-contribution-grid-snake.svg)
+
