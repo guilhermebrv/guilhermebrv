@@ -20,4 +20,3 @@ Technologies I use on a regular basis:
   </div>
   
 ![Snake animation](https://github.com/guilhermebrv/guilhermebrv/blob/output/github-contribution-grid-snake.svg)
-
