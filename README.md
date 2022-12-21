@@ -1,4 +1,4 @@
-### Hey! My name is Guilherme, and I'd like to welcome you to my Github 👋
+### Hey! My name is Guilherme, and I would like to welcome you to my Github 👋
 
 You can get in touch with me through:
 
