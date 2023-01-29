@@ -9,7 +9,7 @@
 
 You can get in touch with me through:
   
-[![Lindkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-viana-34a6b6213) 
+[![Lindkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebrviana/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bu1QW%2B1b0Tyeh98kJzWXgbg%3D%3D) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermebrviana@gmail.com)
 
 ##
