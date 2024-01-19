@@ -1,4 +1,7 @@
-## Hey! My name is Guilherme, and I would like to welcome you to my Github 👋
+
+![23](https://github.com/guilhermebrv/guilhermebrv/assets/104163003/2f6cd2e9-06aa-4043-9cd2-00ec11fb6cfc)
+
+## Welcome you to my Github 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=guilhermebrv" height="150" alt="stats graph"  />
