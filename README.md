@@ -8,6 +8,7 @@ let meuPerfil = {
   code: [Swift, Objective-C, Python, C++],
   tools: [UIKit, CoreData, Swift UI, Xcode, CocoaPods, Firebase, ARKit],
   architecture: ["MVC", "MVVM", "Delegation", "Singleton"],
+  aditionalSkills: ["C", "JavaScript", "HTML", "CSS"],
   techCommunities: {
                         contributor: "Swift Forums",
                         speaker: "iOS Conf",
