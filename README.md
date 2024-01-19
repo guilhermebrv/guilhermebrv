@@ -1,5 +1,4 @@
-
-![23](https://github.com/guilhermebrv/guilhermebrv/assets/104163003/2f6cd2e9-06aa-4043-9cd2-00ec11fb6cfc)
+<img src="https://github.com/guilhermebrv/guilhermebrv/assets/104163003/2f6cd2e9-06aa-4043-9cd2-00ec11fb6cfc" width="900" height="560">
 
 ## Welcome you to my Github 👋
 
@@ -26,6 +25,4 @@ You can get in touch with me through:
   <img align="center" alt="MacOS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">  
   
-  ![Snake animation](https://github.com/guilhermebrv/guilhermebrv/blob/output/github-contribution-grid-snake.svg)
-
   </div>
