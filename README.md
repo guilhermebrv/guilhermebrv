@@ -3,20 +3,27 @@
 ## Welcome to my Github 👋
 
 ```swift
-let meuPerfil = {
-  pronouns: "ele" | "dele",
-  code: [Swift, Objective-C, Python, C++],
-  tools: [UIKit, CoreData, Swift UI, Xcode, CocoaPods, Firebase, ARKit],
-  architecture: ["MVC", "MVVM", "Delegation", "Singleton"],
+var guilhermeViana = iOSDeveloper(
+  code: ["Swift"],
+  skills: ["ViewCode", "UIKit", "CoreData", "API", "Git", "Firebase", "Realm/MongoDB"],
+  tools: ["Xcode", "Github", "CocoaPods", "Swift Package Manager"],
+  architecturePatterns: ["MVC", "MVVM", "Delegate", "Singleton"],
   aditionalSkills: ["C", "JavaScript", "HTML", "CSS"],
-  techCommunities: {
-                        contributor: "Swift Forums",
-                        speaker: "iOS Conf",
-                        mentor: "CodePath iOS Course"
-                      },
-  currentFocus: "Desenvolvendo aplicativos avançados com Swift e explorando ARKit",
-  funFact: "Eu tenho um grande interesse em IA e Machine Learning aplicados ao desenvolvimento iOS"
-}
+  currentFocus: "Sharpening my mastery of UIKit to secure my first role in iOS development",
+  nextGoals: ["Explore SwiftUI in the near future", "Dive deeper into ARKit, because I believe that spatial computing
+              is not just a trend, but the future of interaction and experience in the tech world"],
+  hobbies: {
+              fitness: ["weight training", "running", "yoga", "cycling"],
+              entertainment: ["building apps (no joke)", "traveling", "music", "horror and thriller movies",
+                "reading fiction", "playing open world videogames"],
+              nature: ["hiking", "going to the beach"]
+           },
+  funFact: "I`ve been immersed in the world of technology since my childhood, thanks to both of my parents being
+            programmers. Growing up, I was the go-to problem solver for computer issues in my circle of friends.
+            And despite that promising future I never thought I had, my initial career path took me into Law.
+            It was only a few years ago that I realized my true calling was in programming, leading me to make
+            a significant, yet fulfilling career shift back to my roots in tech"
+)
 ```
 [![Gmail](https://img.shields.io/badge/-guibviana@icloud.com-red?style=flat-square&logo=iCloud&logoColor=white&link=guibviana@icloud.com)](mailto:guibviana@icloud.com)
 [![Linkedin: guilhermebrv](https://img.shields.io/badge/-guilhermebrv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermebrv/)](https://www.linkedin.com/in/guilhermebrv/)
