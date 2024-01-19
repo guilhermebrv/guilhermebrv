@@ -17,8 +17,8 @@ let meuPerfil = {
   funFact: "Eu tenho um grande interesse em IA e Machine Learning aplicados ao desenvolvimento iOS"
 }
 ```
-[![Gmail](https://img.shields.io/badge/-guibviana@icloud.com-red?style=flat-square&logo=iCloud&logoColor=white&link=guibviana@icloud.com)](guibviana@icloud.com)
+[![Gmail](https://img.shields.io/badge/-guibviana@icloud.com-red?style=flat-square&logo=iCloud&logoColor=white&link=guibviana@icloud.com)](mailto:guibviana@icloud.com)
 [![Linkedin: guilhermebrv](https://img.shields.io/badge/-guilhermebrv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermebrv/)](https://www.linkedin.com/in/guilhermebrv/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/guilhermebrv?label=follow&style=social)](https://github.com/guilhermebrv)
+[![GitHub Guilherme](https://img.shields.io/github/followers/guilhermebrv?label=follow&style=social)](https://github.com/guilhermebrv)
 
 ##
