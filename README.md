@@ -5,7 +5,7 @@
 ```swift
 var guilhermeViana = iOSDeveloper(
   code: "Swift",
-  skills: ["ViewCode", "UIKit", "CoreData", "API", "Git", "Firebase", "Realm/MongoDB"],
+  skills: ["ViewCode", "UIKit", "CoreData", "URLSession", "API", "Git", "Firebase", "Realm/MongoDB"],
   tools: ["Xcode", "Github", "CocoaPods", "Swift Package Manager"],
   architecturePatterns: ["MVC", "MVVM", "Delegate", "Singleton"],
   additionalSkills: ["C", "JavaScript", "HTML", "CSS"],
