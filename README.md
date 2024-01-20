@@ -9,14 +9,14 @@ var guilhermeViana = iOSDeveloper(
   tools: ["Xcode", "Github", "CocoaPods", "Swift Package Manager"],
   architecturePatterns: ["MVC", "MVVM", "Delegate", "Singleton"],
   additionalSkills: ["C", "JavaScript", "HTML", "CSS"],
-  currentFocus: "Sharpening my UIKit skills to secure my first role in iOS development",
-  nextGoals: ["Dive deeper into SwiftUI in the near future", "Explore ARKit, because I believe that spatial
+  currentFocus: "Sharpening my UIKit skills",
+  nextGoals: ["Dive deeper into SwiftUI", "Explore ARKit, because I believe that spatial
               computing is not just a trend, but the future of interaction and experience in the tech world"],
   hobbies: {
               healthyOnes: ["weight training", "running", "cycling"],
-              whenIHaveFreeTime: ["building apps (no joke)", "traveling", "music", "horror and thriller movies",
+              havingFun: ["building apps (no joke)", "traveling", "music", "horror and thriller movies",
               "reading fiction", "playing open world videogames"],
-              connectingToMyself: ["hiking", "going to the beach", "yoga", "meditation"]
+              reconnectingToMyself: ["hiking", "going to the beach", "yoga", "meditation"]
            },
   funFact: "I`ve been immersed in the world of technology since my childhood, thanks to both of my parents being
             programmers. Growing up, I was the go-to problem solver for computer issues in my circle of friends.
