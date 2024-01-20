@@ -9,7 +9,7 @@ var guilhermeViana = iOSDeveloper(
   tools: ["Xcode", "Github", "CocoaPods", "Swift Package Manager"],
   architecturePatterns: ["MVC", "MVVM", "Delegate", "Singleton"],
   additionalSkills: ["C", "JavaScript", "HTML", "CSS"],
-  currentFocus: "Sharpening my UIKit skills",
+  currentFocus: "Sharpening my UIKit skills and developing my next app to publish it at the App Store",
   nextGoals: ["Dive deeper into SwiftUI", "Explore ARKit, because I believe that spatial
               computing is not just a trend, but the future of interaction and experience in the tech world"],
   hobbies: {
