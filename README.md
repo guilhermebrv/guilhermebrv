@@ -1,4 +1,4 @@
-<img src="https://github.com/guilhermebrv/guilhermebrv/assets/104163003/a5b64ef5-11b5-4413-9fef-a6e5cf285648">
+<img src="https://github.com/guilhermebrv/guilhermebrv/assets/104163003/c24c0c10-8793-4e17-8514-2c389240a48a">
 
 ## Welcome to my Github 👋
 
