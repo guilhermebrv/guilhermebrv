@@ -19,15 +19,16 @@ var guilhermeViana = iOSDeveloper(
               reconnectingToMyself: ["hiking", "going to the beach", "yoga", "meditation"]
            },
   funFact: "I`ve been immersed in the world of technology since my childhood, thanks to both of my parents being
-            programmers. Growing up, I was the go-to problem solver for computer issues in my circle of friends.
-            And despite that promising future I never thought I had, my initial career path took me into Law.
+            programmers. Growing up, I was the go-to problem solver for tech issues in my circle of friends.
+            And despite that promising future I never considered at the time, my initial career path took me into Law.
             It was only a few years ago that I realized my true calling was in programming, leading me to make
-            a significant, yet fulfilling career shift back to my roots in tech"
+            a career shift back to my roots in tech"
 )
 ```
+[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=flat-square&logo=Mail&logoColor=white&link=https://guilhermeviana.webflow.io)](https://guilhermeviana.webflow.io)
+[![Linkedin: guilhermebrv](https://img.shields.io/badge/-guilhermebrv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermebrv/)](https://www.linkedin.com/in/guilhermebrv/)
 [![Twitter: guiosdev](https://img.shields.io/twitter/follow/guiosdev?style=social)](https://twitter.com/guiosdev)
 [![Gmail](https://img.shields.io/badge/-guibviana@icloud.com-red?style=flat-square&logo=iCloud&logoColor=white&link=guibviana@icloud.com)](mailto:guibviana@icloud.com)
-[![Linkedin: guilhermebrv](https://img.shields.io/badge/-guilhermebrv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermebrv/)](https://www.linkedin.com/in/guilhermebrv/)
 [![GitHub Guilherme](https://img.shields.io/github/followers/guilhermebrv?label=follow&style=social)](https://github.com/guilhermebrv)
 
 ##
